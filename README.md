@@ -7,7 +7,7 @@ It should record audio/video/ArKit_face_mocap data.
 Cycling and recording audo + face mocap works.
 
 I am struggling to capture the video stream as well.
-Also concerned about performance.
 
-## Screen Cap
+Performance concerns as well.
+
 ![](https://github.com/caseybasichis/FaceTracking_01/blob/main/app_run.gif)
