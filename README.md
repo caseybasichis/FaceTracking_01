@@ -10,4 +10,4 @@ I am struggling to capture the video stream as well.
 Also concerned about performance.
 
 ## Screen Cap
-![](https://github.com/caseybasichis/FaceTracking_01/app_run.gif)
+![](https://github.com/caseybasichis/FaceTracking_01/blob/main/app_run.gif)
