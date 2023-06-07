@@ -1,0 +1,16 @@
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\bin\Debug\netstandard2.0\FaceTracking_01.deps.json
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\bin\Debug\netstandard2.0\FaceTracking_01.dll
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\bin\Debug\netstandard2.0\FaceTracking_01.pdb
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\FaceTracking_01.csproj.AssemblyReference.cache
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\FaceTracking_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\Views\FaceTrackingPage.xaml.g.cs
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\FaceTracking_01.AssemblyInfoInputs.cache
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\FaceTracking_01.AssemblyInfo.cs
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\FaceTracking_01.csproj.CoreCompileInputs.cache
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\FaceTracking_01.dll
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\refint\FaceTracking_01.dll
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\FaceTracking_01.pdb
+C:\Users\caseybasichis\source\repos\FaceTracking_01\FaceTracking_01\FaceTracking_01\obj\Debug\netstandard2.0\ref\FaceTracking_01.dll
